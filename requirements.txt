@@ -1,0 +1,11 @@
+torch
+torchvision
+onnx
+onnxruntime
+numpy
+pandas
+psutil
+tqdm
+Pillow
+streamlit
+matplotlib
