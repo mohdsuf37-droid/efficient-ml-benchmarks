@@ -29,7 +29,6 @@
 
 ## 🚀 Quickstart
 
-```bash
 # 1) Setup
 python -m venv venv
 # Windows:
